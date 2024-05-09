@@ -8,8 +8,9 @@
 
 /* Background color for the body */
 body {
-    background-color: hsla(0, 6%, 77%, 0.847);
-    color: #f8f7f8;
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
 }
 
